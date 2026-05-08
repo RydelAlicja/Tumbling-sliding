@@ -1,1 +1,1 @@
-# kafka-anomaly-detection
+# Praca domowa 2
